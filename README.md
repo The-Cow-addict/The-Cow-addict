@@ -1,4 +1,11 @@
 ### Hi there 👋
+Im Ethan or as most people call me The Cow!
+
+🔭 I’m currently working on more React Js/Ts projects to pushing on to be a better Web Dev!
+
+
+
+
 
 <!--
 **The-Cow-addict/The-Cow-addict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
