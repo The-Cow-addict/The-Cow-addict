@@ -1,4 +1,4 @@
-###        Hi there 👋
+Hi there 👋
 Im Ethan or as most people call me The Cow!
 
 🔭 I’m currently working on more React Js/Ts projects to pushing on to be a better Web Dev!
