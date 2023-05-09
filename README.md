@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/91-lB-gNsykAAAAC/hi-cow.gif">
 <p>-My name is Ethan or The Cow as people call me!</p>
 <p>-Currently working on more React JS/TS projects</p>
-<p>-Am a make-a-wish Frontend Developer!</p>
+<p>-Am a make-a-wish Frontend Developer! (no promises)</p>
 
 
 # 💻 Tech Stack:
