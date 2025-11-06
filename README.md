@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently building websites (full stack)<br>working on Machine Learning / Computer vision / Infinite Data Synthesis / object detection<br>moo.
+currently building websites (full stack)<br>working on Machine Learning / Computer vision / Data Synthesis / object detection<br>moo.
 
 
 # 💻 Tech Stack:
